@@ -1,0 +1,36 @@
+----- Memory Game ------
+
+A simple interactive Memory Card Game built with **HTML, CSS, and JavaScript**.  
+Players flip cards to find matching emoji pairs.
+
+
+
+------ Features ------
+- Flip cards to reveal emoji
+- Cards stay open if matched
+- Automatic shuffle at every restart
+- Smooth flip animations (CSS 3D transform)
+- Fully responsive (mobile & desktop)
+- Clean, simple UI
+- Well-structured and commented code
+
+
+
+----- How to Play ------
+1. Click on any card to flip it.
+2. Flip another card:
+   - If the emojis match → both stay face-up.
+   - If they don’t match → cards flip back after a moment.
+3. Continue until all pairs are found.
+4. Click **Restart** to play again.
+
+
+
+---- Setup Instructions -----
+
+1. Download the project folder.
+2. Ensure the following files are inside:
+   - index.html
+   - style.css
+   - script.js
+3. Open `index.html` in your browser.
